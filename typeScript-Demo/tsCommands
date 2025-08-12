@@ -1,0 +1,3 @@
+npm i typescript -g // for global install
+tsc fileName // for compile ts
+tsc --init // create tsConfig.json file
